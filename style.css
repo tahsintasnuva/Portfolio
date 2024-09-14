@@ -186,6 +186,11 @@ gap: 53px;
     object-fit:cover ;
 }
 
+.habibi{
+    height: 46%;
+    object-fit: cover;
+}
+
 .project-details{
     padding: 0px 20px;
 
